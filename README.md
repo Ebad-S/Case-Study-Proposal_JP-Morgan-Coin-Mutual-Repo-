@@ -20,7 +20,6 @@ JPM Coin uses Quorum, which is built on Ethereum, a leading cryptocurrency platf
 JP Morgan is the first major bank to announce anything like this.
 
 
-
 ## Why This May Be Interesting
 JP Morgan itself actively recruits young people, most notably through their internship and associate  programs. It has a massive presence in New York City and is partial to Columbia grads, who will be our first cohort of students. No doubt, the Bank will need lots of new staff to work on JPM Coin and the smart contracts written on top of it: important areas of banking, such as financial derivatives, construction finance, and letters of credit, are obvious candidates for smart contracts, and the infrastructure for this has yet to be built out. See GlassDoor link to JP Morgan Blockchain jobs.
 Furthermore, the boost to Ethereum's legitimacy is likely to create an entire ecosystem surrounding it, such as specialty software vendors, specialty law firms to draft and litigate smart contracts, and consultants. One such software vendor (which also offers Ethereum training) is Consensys, which seems to have worked with JP Morgan to develop Quorum.
